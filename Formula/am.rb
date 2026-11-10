@@ -1,8 +1,8 @@
 class Am < Formula
   desc "Apple Music in the terminal"
   homepage "https://github.com/IIxauII/am"
-  url "https://github.com/IIxauII/am/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "74ddad4d532c6d311535aed4d8c9955796fac7e59ba88b246e159ea648234c0d"
+  url "https://github.com/IIxauII/am/archive/refs/tags/v0.5.2.tar.gz"
+  sha256 "030c794b81d7057af0953fbeedf9fd0a37cc678099cfd35e9b5d03f7f0fdb23e"
   license "GPL-3.0-only"
 
   bottle do
